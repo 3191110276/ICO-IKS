@@ -22,13 +22,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateAdd-OnsPolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateAdd-OnsPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Cluster Profile -->
@@ -37,25 +37,25 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateClusterProfile.json">Link</a></td>
+    <td><a href="./tasks/CreateClusterProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Deploy</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/DeployClusterProfile.json">Link</a></td>
+    <td><a href="./tasks/DeployClusterProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Undeploy</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/UndeployClusterProfile.json">Link</a></td>
+    <td><a href="./tasks/UndeployClusterProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/DeleteClusterProfile.json">Link</a></td>
+    <td><a href="./tasks/DeleteClusterProfile.json">Link</a></td>
   </tr>
   
   <!-- Container Runtime Policy -->
@@ -64,13 +64,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateContainerRuntimePolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateContainerRuntimePolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Kubernetes Version Policy -->
@@ -79,13 +79,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateKubernetesVersionPolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateKubernetesVersionPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Network CIDR Policy -->
@@ -94,13 +94,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateNetworkCIDRPolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateNetworkCIDRPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- NodeGroup Profiles -->
@@ -109,19 +109,19 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateNodeGroupProfile.json">Link</a></td>
+    <td><a href="./tasks/CreateNodeGroupProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Scale</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/ScaleNodeGroupProfile.json">Link</a></td>
+    <td><a href="./tasks/ScaleNodeGroupProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Node OS Configuration Policy -->
@@ -130,13 +130,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateNodeOSConfigurationPolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateNodeOSConfigurationPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Trusted Certificate Authorities Policy -->
@@ -145,13 +145,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Virtual Machine Infra Config Policy -->
@@ -160,13 +160,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateVirtualMachineInfraConfigPolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateVirtualMachineInfraConfigPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Virtual Machine Instance Type Policy -->
@@ -175,13 +175,13 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/tasks/CreateVirtualMachineInstanceTypePolicy.json">Link</a></td>
+    <td><a href="./tasks/CreateVirtualMachineInstanceTypePolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link*</a></td>
+    <td><a href="./tasks/DeleteManagedObject.json">Link*</a></td>
   </tr>
 </table>
 * These Delete operations use the generic "Delete Managed Object" task for Intersight
@@ -199,7 +199,7 @@ Right now, this repository contains the following tasks and workflows:
     <td>Create and deploy a new cluster</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/workflows/CreateanddeployanewCluster.json">Link</a></td>
+    <td><a href="./workflows/CreateanddeployanewCluster.json">Link</a></td>
   </tr>
 </table>
 
@@ -212,3 +212,4 @@ None
 
 
 ## Notes
+Right now the workflow only works for ESXi, not Intersight Workload Engine (IWE).
